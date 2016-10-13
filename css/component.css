@@ -25,7 +25,8 @@
 .space .large-space {
 	background-image: url('../img/space.jpg');
 	background-attachment: fixed;
-	height: 500px;
+	height: 650px;
+
 }
 .main-title {
 	position: absolute;
@@ -348,3 +349,6 @@
         line-height: 20px
     }
 }
+
+/*module*/
+
